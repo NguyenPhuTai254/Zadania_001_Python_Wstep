@@ -17,7 +17,7 @@ Napisz program, który wypisze na ekranie wszystkie liczby pierwsze z zadanego z
 Liczby zaprzyjaźnione to dwie liczby naturalne, gdzie każda z nich jest równa sumie dzielników właściwych drugiej liczby. 
 Napisz program wypisujący liczby zaprzyjaźnione z zadanego zakresu.
 
-## Zadanie 3 [2 pkt]
+## Zadanie 3 [3 pkt]
 Problem Józefa Flawiusza. 
 
 Wyobraź sobie następującą sytuację: jesteś powstańcem żydowskim podczas oblężenia Jotopaty w 67 roku n.e. 
@@ -27,11 +27,11 @@ kolejny żołnierz zabije kompana po swojej lewej, aż do momentu gdy zostanie t
 Ty jednak nie chcesz zginąć z ręki innego powstańca ani popełniać samobójstwa. 
 Gdzie w takim razie ustawić się w tym kręgu, aby uniknąć śmerci? 
 Jak opracować uniwersalny sposób na obliczenie bezpiecznego miejsca w kole dla dowolnej liczby znajdujących się w nim osób? 
-W opisanej wyżej sytuacji znalazł się Józef Flawiusz, rzymsko-żydowski historyk od którego wzięła się nazwa problemu.
+W opisanej wyżej sytuacji znalazł się Józef Flawiusz, rzymsko-żydowski historyk, od którego wzięła się nazwa problemu.
 
 Napisz program rozwiązujący ten problen dla dowolnej liczby żołnierzy.
 
-## Zadanie 4 [2 pkt]
+## Zadanie 4 [3 pkt]
 Napisz program, który posortuje n dat. 
 Zdefiniuj i wykorzystaj słownik, która będzie posiadał klucze zawierające informacje na temat dnia, miesiąca i roku. 
 Następnie posortuje dowolnym algorytmem daty rosnąco.
